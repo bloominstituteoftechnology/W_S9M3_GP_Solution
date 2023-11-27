@@ -1,4 +1,4 @@
-# Sprint 9 Module 3 Guided Project
+# Sprint 9 Module 3 Guided Project Solution
 
 Practice **custom hooks** following along with your instructor.
 
